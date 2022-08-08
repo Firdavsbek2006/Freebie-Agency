@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-decoration: none;
+    transition: .2s ease-in-out;
+}
+
+body{
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    background-image: url("../images/body-bg.png");
+    background-repeat: no-repeat;
+    background-size: 1366px 861px;
+    background-position: top;
+}
+
+img{
+    object-fit: cover;
+}

@@ -1,0 +1,61 @@
+.site-header{
+    padding: 73px 0 0;
+}
+
+.header{
+    display: flex;
+    justify-content: right;
+}
+
+.header__list{
+    margin-right: 0;
+    margin-left: auto;
+    display: flex;
+    gap: 58.4px;
+}
+
+.header__item{
+    position: relative;
+}
+
+.header__item:last-child{
+    margin-left: 6px;
+}
+
+.header__item a{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    letter-spacing: 1.94px;
+    color: #FFFFFF;
+}
+
+.header__span1{
+    width: 54.91px;
+    height: 2px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    display: inline-block;
+    background: #4CAF50;
+}
+
+.header__span2{
+    width: 17.97px;
+    height: 2px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    display: inline-block;
+    background: #4CAF50;
+}
+
+.header__span3{
+    width: 19.44px;
+    height: 2px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    display: inline-block;
+    background: #4CAF50;
+}
